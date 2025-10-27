@@ -1,0 +1,23 @@
+# Core dependencies for Jupyter notebooks
+jupyter>=1.0.0
+notebook>=6.0.0
+
+# Scientific computing
+numpy>=1.20.0
+matplotlib>=3.3.0
+pandas>=1.2.0
+
+# Geospatial data processing (optional, install as needed)
+# Uncomment the following lines when working with satellite data:
+# rasterio>=1.2.0
+# gdal>=3.0.0
+# sentinelsat>=1.0.0
+# sentinelhub>=3.0.0
+# eolearn>=1.0.0
+
+# Image processing
+# scikit-image>=0.18.0
+# opencv-python>=4.5.0
+
+# Machine learning (optional for classification tasks)
+# scikit-learn>=0.24.0
