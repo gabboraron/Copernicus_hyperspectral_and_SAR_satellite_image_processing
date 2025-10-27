@@ -36,6 +36,36 @@ To run the Jupyter notebooks in this repository, you'll need:
   - GDAL/Rasterio (for geospatial data)
   - Sentinel data processing libraries (as needed)
 
+### Theory
+- [Senitnel 1](https://sentinels.copernicus.eu/copernicus/sentinel-1) - SAR
+    - Monthly mosaics with terrain flattering
+    - no swath edges, reduced speckle
+    - high applicability for agriculture
+    - 2020-2024
+- Sentinel 2-3 for agriculture
+  - Sentinel 2  ~ 5 day revisit
+  - Sentinel 3  - twice daily
+    - algal pigment
+    - CDM absoption  
+- Sentinel 4 for ocean observation
+- Sentinel 5 - most optical bands; daily
+
+#### CCM
+APIs:
++ Catalogue API -> return list of datasets
++ Visualisation(OGC) -> returns a map
++ process (instant batch) -> returns raster product
++ statistical -> returns calculation results
++ bring your own data -> Your own data visualized or merged
+
+STAC catalogue:
+- direct download
+- S3 paths
+
+[OpenEO](https://openeo.org/)
+
+
+
 ### Installation
 
 1. Clone this repository:
