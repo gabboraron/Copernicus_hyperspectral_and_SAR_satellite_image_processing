@@ -69,6 +69,8 @@ More:
 - https://documentation.dataspace.copernicus.eu
 - https://www.youtube.com/@copernicusdataspaceecosystem
 - https://land.copernicus.eu/en
+- https://github.com/eu-cdse/copernicus-browser
+
 
 #### CRMS
 - https://land.copernicus.eu/en/products/high-resolution-layer-forests-and-tree-cover/forest-type-2018-raster-10-m-100-m-europe-3-yearly
