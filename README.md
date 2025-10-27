@@ -1,0 +1,2 @@
+# Copernicus_hyperspectral_and_SAR_satellite_image_processing
+These are notes from ESA EO workshop
