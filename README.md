@@ -46,7 +46,8 @@ To run the Jupyter notebooks in this repository, you'll need:
   - Sentinel 2  ~ 5 day revisit
   - Sentinel 3  - twice daily
     - algal pigment
-    - CDM absoption  
+    - CDM absoption
+    - calibrated NDVI 
 - Sentinel 4 for ocean observation
 - Sentinel 5 - most optical bands; daily
 
